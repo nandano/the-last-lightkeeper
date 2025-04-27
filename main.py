@@ -6,7 +6,7 @@ choice1 = input("You are standing at the edge of a cursed forest, the map trembl
 
 if choice1 == '1':
     choice2 = input("You meet a talking fox who offers to guide you for a price.\n" \
-    "1. Trust the Fox and give him your silver pendant.\n2.Decline the Offer and try to find your way alone.\n")
+    "1. Trust the Fox and give him your silver pendant.\n2. Decline the Offer and try to find your way alone.\n")
 
     if choice2 == '1':
         choice3 = input("The fox guides you to a glowing portal deep in the woods.\n" \
